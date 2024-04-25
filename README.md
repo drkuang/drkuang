@@ -1,4 +1,4 @@
-### 👋Hi there, I'm Zheng Kuang 
+### 👋 Hi there, I'm Zheng Kuang 
 
 <div align="center">
   
@@ -20,8 +20,6 @@
     <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
      -->
      
-
-## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m @Zheng Kuang
