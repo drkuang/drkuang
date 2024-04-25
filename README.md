@@ -1,4 +1,4 @@
-### Hi there,I'm Zheng Kuang 👋
+### 👋Hi there, I'm Zheng Kuang 
 
 <!--
 **drkuang/drkuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -109,3 +109,4 @@ Here are some ideas to get you started:
 </table>
 
 <h2 align="left">Coding Activity</h2>
+
