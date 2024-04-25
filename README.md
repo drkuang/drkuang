@@ -19,9 +19,9 @@
     <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
      -->
-     
-### 👋 Hi there, I'm Zheng Kuang 
-<!-- 个人简介 -->
+
+ <!-- 个人简介 -->    
+## 👋 Hi there, I'm Zheng Kuang 
 - 👀 I’m interested in tumor immunology, surfaceomics, membrane proteins, and protein-protein interactions. etc.
 - 🌱 I’m currently learning Bioinformatics, R, Python, Maths, Immunology.
 - 💞️ I am searching for a suitable research group to focus on for my PhD studies.
