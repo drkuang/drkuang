@@ -20,11 +20,6 @@
     <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
      -->
      
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=drkuang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-<p><b>Biology has the power to make the world a better place</b></p>
-</div>
 
 ## Hi! Nice to meet you!
 
@@ -52,6 +47,7 @@
 - - 📖302X 代表 健身🏋️
 - - 📖303X 代表 生活方式 
   
+<!-- 笔记简介
 📒10XX represents Theoretical Knowledge
 📖101X represents Immunology
 📖102X represents Multi-omics (Genomics, Transcriptomics, Proteomics)
@@ -65,7 +61,7 @@
 📖301X represents English
 📖302X represents Fitness 🏋️
 📖303X represents Lifestyle
-
+ -->
 
 <!--
 **drkuang/drkuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
