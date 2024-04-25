@@ -1,5 +1,59 @@
 ### 👋Hi there, I'm Zheng Kuang 
 
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Zheng Kuang 匡正 &center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
+  <!-- profile logo 个人资料徽标
+  <div align="center">
+    <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+     -->
+     
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=drkuang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+<p><b>Biology has the power to make the world a better place</b></p>
+</div>
+
+## Hi! Nice to meet you!
+
+<!-- 个人简介 -->
+- 👋 Hi, I’m @Zheng Kuang
+- 👀 I’m interested in tumor immunology, surfaceomics, membrane proteins, and protein-protein interactions. etc.
+- 🌱 I’m currently learning Bioinformatics, R, Python, Maths, Immunology.
+- 💞️ I am searching for a suitable research group to focus on for my PhD studies.
+- 📫 How to reach me? Email: kuangzheng@stu.pku.edu.cn
+
+<!-- 笔记简介 -->
+## Introduction to my github.笔记前两个数字的含义
+- 📒10XX 代表 理论知识
+- - 📊101X 代表 免疫学
+- - 📊102X 代表 多组学（基因组、转录组、蛋白质组）
+--  📊103X 代表 结构生物学（分子对接）  
+--  📊104X 代表 实验技术（分子实验、细胞实验、动物实验） 
+--  📊105X 代表 编程（R、PYTHON、Linux）
+--  📊106X 代表 数学（线性代数、微积分、概率论、统计学）
+--  📊106X 代表 机器学习   
+- 📒20XX 代表 科研项目
+- 📒30XX 代表 生活
+--  📊301X 代表 英语📖
+--  📊302X 代表 健身🏋️
+--  📊303X 代表 健康生活方式🏋️  
+  
+
+
+
 <!--
 **drkuang/drkuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
