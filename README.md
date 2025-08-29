@@ -22,8 +22,8 @@
 
  <!-- 个人简介 -->    
 ## 👋 Hi there, I'm Zheng Kuang 
-- 👀 I’m interested in tumor immunology, surfaceomics, membrane proteins, and protein-protein interactions. etc.
-- 🌱 I’m currently learning Bioinformatics, R, Python, Maths, Immunology.
+- 👀 I’m interested in tumor immunology,cancer-associated fibroblasts,surfaceomics, membrane proteins, and protein-protein interactions. etc.
+- 🌱 I’m currently learning Bioinformatics, Immunology, R, Python.
 - 💞️ I am searching for a suitable research group to focus on for my PhD studies.
 - 📫 How to reach me? Email: kuangzheng@stu.pku.edu.cn
 
