@@ -28,21 +28,21 @@
 - 📫 How to reach me? Email: kuangzheng@stu.pku.edu.cn
 
 <!-- 笔记简介 -->
-## Introduction to my github.
-### The meanings of the first two digits in my notes
-- 📒10XX 代表 理论知识
-- - 📖101X 代表 免疫学
-- - 📖102X 代表 多组学（基因组、转录组、蛋白质组）
-- - 📖103X 代表 结构生物学（分子对接）  
-- - 📖104X 代表 实验技术（分子实验、细胞实验、动物实验） 
-- - 📖105X 代表 编程（R、PYTHON、Linux）
-- - 📖106X 代表 数学（线性代数、微积分、概率论、统计学）
-- - 📖106X 代表 机器学习   
-- 📒20XX 代表 科研项目
-- 📒30XX 代表 生活
-- - 📖301X 代表 英语
-- - 📖302X 代表 健身🏋️
-- - 📖303X 代表 生活方式 
+## 📚 Knowledge Organization System
+
+Code       | Project                          | Description
+:----------|:---------------------------------|:---
+**IM01**   | Immunology_Basics                | Core concepts and fundamental principles of immunology
+**IM02**   | Immunology_Advanced              | Advanced topics in immune response mechanisms and disease relevance
+**CAF01**  | Cancer_Associated_Fibroblasts    | Fundamental biology of Cancer-Associated Fibroblasts (CAFs)
+**CAN01**  | Pancreatic_Cancer                | Molecular mechanisms and tumor microenvironment of pancreatic cancer
+**BIO01**  | scRNA-seq_Analysis               | Processing and interpretation of single-cell transcriptomics data
+**BIO02**  | Bulk_RNA-seq_Analysis            | Analytical methods for bulk RNA-sequencing data
+**BIO03**  | Spatial_Transcriptomics          | Analysis and applications of spatial transcriptomic technologies
+**EXP01**  | Experimental_Techniques          | Foundational theory and protocols for molecular/cellular/animal experiments
+**COMP01** | R_Programming                    | Data manipulation and visualization using R
+**COMP02** | Python_Programming               | Python programming for bioinformatics applications
+**COMP03** | Linux/Shell                      | Linux environment and Shell scripting
   
 <!-- 笔记简介
 📒10XX represents Theoretical Knowledge
